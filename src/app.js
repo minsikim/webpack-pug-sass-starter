@@ -1,6 +1,4 @@
-var add = function(a,b){
-  return a+b;
-}
+import * as functions from './component.js'
 
-console.log(add(1,2));
-document.body.innerHTML += add(1,2);
+console.log('hello');
+document.body.innerHTML += functions.add(1,2);
