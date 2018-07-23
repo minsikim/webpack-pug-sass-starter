@@ -1,3 +1,5 @@
+import '../scss/main.scss';
+
 import * as functions from './component.js'
 
 console.log('hello');
