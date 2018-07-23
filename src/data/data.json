@@ -1,0 +1,38 @@
+{
+  "component-name1": {
+    "type": "navigation",
+    "text-en": {
+      "title": "Component1 Title",
+      "sub-title": "Component1 Subtitle",
+      "content": "Component1 Content. A website is a collection of related web pages, including multimedia content, typically identified with a common domain name, and published on at least one web server."
+    },
+    "text-ko": {
+      "title": "컴포넌트1 제목",
+      "sub-title": "컴포넌드1 부제목",
+      "content": "컴포넌트1 내용. 웹사이트는 인터넷 프로토콜 기반의 네트워크에서 도메인 이름이나 IP 주소, 루트 경로만으로 이루어진 일반 URL을 통하여 보이는 웹 페이지 들의 의미 있는 묶음이다."
+    },
+    "image": {
+      "main-image": "./path/after/__dirname/image-name.jpg",
+      "sub-image1": "./path/after/__dirname/image-name.png",
+      "sub-image1": "./path/after/__dirname/image-name.svg"
+    }
+  },
+  "component-name2": {
+    "type": "navigation",
+    "text-en": {
+      "title": "Component2 Title",
+      "sub-title": "Component2 Subtitle",
+      "content": "Component2 Content. A website is a collection of related web pages, including multimedia content, typically identified with a common domain name, and published on at least one web server."
+    },
+    "text-ko": {
+      "title": "컴포넌트2 제목",
+      "sub-title": "컴포넌드2 부제목",
+      "content": "컴포넌트2 내용. 웹사이트는 인터넷 프로토콜 기반의 네트워크에서 도메인 이름이나 IP 주소, 루트 경로만으로 이루어진 일반 URL을 통하여 보이는 웹 페이지 들의 의미 있는 묶음이다."
+    },
+    "image": {
+      "main-image": "./path/after/__dirname/image-name.jpg",
+      "sub-image1": "./path/after/__dirname/image-name.png",
+      "sub-image1": "./path/after/__dirname/image-name.svg"
+    }
+  }
+}
